@@ -257,22 +257,22 @@ Viết đúng 3 câu:
 
 | Người | Case | Bằng chứng mạnh nhất họ nêu | Điều họ cho là "thay đổi vĩnh viễn" | Verdict của họ |
 |---|---|---|---|---|
-| Bạn 1 | | | | |
-| Bạn 2 | | | | |
-| Bạn 3 | | | | |
-| Bạn 4 | | | | |
+| Bạn 1 |VietJack vs ChatGpt | ChatGPT đã cho thấy khả năng làm bài ở mức đỗ với đề thi THPT Việt Nam và đạt 58,8% ở bộ câu hỏi toán trong một nghiên cứu, nên nhu cầu vào website lời giải tĩnh bị đe dọa. | Entry point của việc học chuyển từ "tìm lời giải có sẵn" sang "hỏi AI để được giải thích và hỏi tiếp ngay". | VietJack vẫn sống được nếu chuyển từ kho lời giải tĩnh sang trải nghiệm học tương tác có AI; nếu không, moat cũ sẽ yếu dần. |
+| Bạn 2 |DeepSeek với Nvidia | Sau khi DeepSeek-R1 ra mắt tháng 1/2025, DeepSeek vượt ChatGPT trên App Store Mỹ và cổ phiếu Nvidia có lúc giảm gần 17% trong ngày 27/01/2025. | Thị trường không còn mặc định rằng AI tốt chỉ đến từ mô hình cực đắt và cụm GPU khổng lồ; hiệu quả huấn luyện và mô hình chi phí thấp đã thành biến số chiến lược. | Nvidia chưa "chết", nhưng phải chứng minh moat nằm ở hệ sinh thái, phần mềm và tốc độ đổi mới, không chỉ ở việc bán thật nhiều GPU cho làn sóng AI. |
+| Bạn 3 |Grammar với ChatGPT| ChatGPT được đánh giá là một công cụ sửa lỗi ngữ pháp đầy hứa hẹn, còn Grammarly phải mở rộng mạnh sang AI và mua Coda để cạnh tranh rộng hơn trong năng suất làm việc. | Người dùng không còn chỉ muốn "check grammar" mà muốn AI viết, viết lại, đổi giọng điệu và hỗ trợ theo ngữ cảnh ngay trong luồng làm việc. | Nếu hiểu case này là Grammarly, verdict hợp lý là còn cứu rất tốt nhưng buộc phải pivot từ grammar checker thành AI writing/productivity assistant. |
+| Bạn 4 |Chưa có dữ liệu | | | |
 
 ### Sau khi cả bàn share xong, chốt 3 ý chung
 
 **1. Bàn tôi thấy case nào có bằng chứng mạnh nhất? Vì sao?**  
-> _______________________________________________
+> Với phần ghi chép hiện có, NativeX là case có bằng chứng mạnh nhất vì đã có mốc thời gian rõ từ phía công ty và một AI shock cụ thể từ Google để nối nguyên nhân với tác động.
 
 **2. Có pattern nào lặp lại giữa nhiều case không?**  
 Ví dụ: switching costs giảm, platform bước xuống app layer, user chuyển sang "làm xong giúp tôi", moat cũ quá mỏng…  
-> _______________________________________________
+> Pattern có vẻ lặp lại là AI thay thế phần giá trị cốt lõi vốn từng được thu phí, làm người dùng chuyển sang công cụ nhanh hơn, rẻ hơn, và khiến moat cũ yếu đi.
 
 **3. Một cảnh báo cho chính dự án của nhóm tôi là gì?**  
-> _______________________________________________
+> Nếu giá trị chính của sản phẩm chỉ nằm ở nội dung cơ bản hoặc phản hồi tiêu chuẩn, AI có thể làm phần đó thành hàng hóa rất nhanh.
 
 ---
 
